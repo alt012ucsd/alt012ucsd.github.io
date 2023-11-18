@@ -316,13 +316,6 @@ form .btn2{
     margin-top: 20px;
 }
 
-@media only screen and (min-width: 601px) {
-    .fa-solid.fa-xmark,
-    .fa-solid.fa-bars {
-        display: none;
-    }
-}
-
 /*------------------css for small screens--------------------*/
 nav .fas{
     display: none;
