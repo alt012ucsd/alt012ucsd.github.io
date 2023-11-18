@@ -126,7 +126,6 @@ nav ul li a:hover::after{
 .tab-contents ul li{
     list-style: none;
     margin: 10px 0;
-    color: #458DAA;
 }
 .tab-contents ul li span{
     color: #458DAA;
